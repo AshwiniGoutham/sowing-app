@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+.bg-primary{
+    background-color: rgb(135, 33, 46) !important;
+    height:35pt;
+  }
+.nav-item{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-item-header{
+    font-size:24pt;
+}
+
+.nav-item-subheader{
+    font-size:16pt;
+}
